@@ -1,0 +1,19 @@
+
+;; ----- smex-history -----
+(
+ load-theme
+ viper-mode
+ make-directory
+ cd
+ 5x5
+ arp
+ dbx
+)
+
+;; ----- smex-data -----
+(
+ (make-directory . 1)
+ (load-theme . 13)
+ (viper-mode . 1)
+ (run-factor . 1)
+)
